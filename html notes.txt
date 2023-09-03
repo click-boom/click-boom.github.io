@@ -1,0 +1,60 @@
+Click to download:
+    <a
+    href="https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US"
+    download="firefox-latest-64bit-installer.exe">
+    Download Latest Firefox for Windows (64-bit) (English, US)
+    </a>    click garesi auto-download
+
+Click to send mail to:
+    <a href="mailto:nowhere@mozilla.org">Send email to nowhere</a>
+
+
+Description Lists: 
+    dl= description lists
+    dt= word to describe 
+    dd= description of that word
+
+    these description tags have opening and closing tags hai.
+
+
+<code> shows the text as code font
+<sup> and <sub> iyk,yk
+
+
+
+Document Sections:
+  <form> -- form inpt types of sections in a page
+  <nav>  -- navigation bar
+  <header> -- non-changing top part
+  <footer> -- last ko copyright, contact us wala part
+  <aside>  -- main content ko related topics wala kind okf section
+  <article> -- part of <main> that can exist individually
+  <section> -- fundamental unit/(part of) article
+  <div> -- 
+
+  
+Embedding pdfs:
+    <object data="mypdf.pdf" type="application/pdf" width="800" height="1200">
+    <p>
+    You don't have a PDF plugin, but you can
+    <a href="mypdf.pdf">download the PDF file. </a>
+    </p>
+    </object>
+
+Tables:
+    Contents of a table is ept inside <table></table> tags\
+    <tr>
+        <td>Cell value: a[i][j]= a[1][1]
+    </tr>
+    <tr>
+        <td>Cell value: a[i][j]= a[2][1]
+    </tr>
+
+    tr = container for values of a row in table
+    td = date for a cell in its specific row
+    th= table header
+    <td>&nbsp;</td> = non-breaking space (&nbsp;)
+    <caption> places a caption directly beneath the <table> tag.
+    References: 
+    -> "view-source:https://mdn.github.io/learning-area/html/tables/basic/dogs-table-fixed.html"
+    -> https://mdn.github.io/learning-area/html/tables/basic/animals-table-fixed.html
